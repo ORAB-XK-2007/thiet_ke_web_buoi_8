@@ -1,0 +1,3 @@
+html { scroll-behavior: smooth; }
+section[id], aside[id] { scroll-margin-top: 5rem; }
+[v-cloak] { display: none; }
